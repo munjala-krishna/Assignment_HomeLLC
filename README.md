@@ -1,5 +1,4 @@
-# Assignment_HomeLLC
-This is an assignment submission for HomeLLC Sr.Analyst role
+# House Price Prediction
 
 Agenda: Model for prediction on HPI(House Price Index)in US using some key supply-demand factors
 
